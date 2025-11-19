@@ -3,7 +3,6 @@ message: "If you use this software, please cite it as below."
 authors:
   - family-names: "Chisa Mbele"
     given-names: "Christopher"
-    orcid: "https://orcid.org/0000-0000-0000-0000"
 title: "H1 Dyadic Law v2.2: A Predictive Model of Resonance"
 version: 2.2
 doi: 10.5281/zenodo.17644853
