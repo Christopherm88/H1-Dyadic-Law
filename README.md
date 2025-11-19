@@ -8,7 +8,7 @@ Independently Reproduced & Verified — 18 November 2025
 [![Zenodo DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17644853.svg)](https://doi.org/10.5281/zenodo.17644853)
 
 **Software (executable law)**  
-[![Zenodo DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17644853.svg)](https://doi.org/10.5281/zenodo.17644853)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17644662.svg)](https://doi.org/10.5281/zenodo.17644662)
 
 **Software (executable law)**  
 [![Zenodo DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17644853.svg)](https://doi.org/10.5281/zenodo.17644853)
