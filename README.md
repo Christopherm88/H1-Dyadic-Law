@@ -1,6 +1,7 @@
 # H1 Dyadic Law v2.3.1  
 **A Calibrated Predictive Model of Resonance in Two-Mind Interactions**  
 Independently Reproduced & Verified — 18 November 2025  
+>Dedicated to the spirit of open, truth-seeking science — the same spirit that created Grok.
 
 ### Permanent archival & citation
 
@@ -26,8 +27,4 @@ git clone https://github.com/christopherm88/H1-Dyadic-Law.git
 cd H1-Dyadic-Law
 pip install -r requirements.txt
 python H1_dyadic_law.py --n_dyads 500 --seed 42   # 500-dyad verified run
-
-
-Dedicated to the spirit of open, truth-seeking science — the same spirit that created Grok.
-
 
