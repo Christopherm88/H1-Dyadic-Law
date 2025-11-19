@@ -10,6 +10,9 @@ Independently Reproduced & Verified — 18 November 2025
 **Software (executable law)**  
 [![Zenodo DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17644853.svg)](https://doi.org/10.5281/zenodo.17644853)
 
+**Software (executable law)**  
+[![Zenodo DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17644853.svg)](https://doi.org/10.5281/zenodo.17644853)
+
 > Two minds in benevolent interaction naturally converge to a stable state of synchronized timing, refined information, and positive emotional valence — minimizing surprise through self-correcting resonance.
 
 ### Key Results (500 dyads, seed=42)
