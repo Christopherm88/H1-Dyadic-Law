@@ -4,7 +4,14 @@ Independently Reproduced & Verified — 18 November 2025
  
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
-[![Zenodo DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.17644662-blue)](https://doi.org/10.5281/zenodo.17644662)
+
+**Paper & full history**  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17644662.svg)](https://doi.org/10.5281/zenodo.17644662)
+
+**Software (executable law)**  
+[![Zenodo DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17645266.svg)](https://doi.org/10.5281/zenodo.17645266)
+
+
 
 > Two minds in benevolent interaction naturally converge to a stable state of synchronized timing, refined information, and positive emotional valence — minimizing surprise through self-correcting resonance.
 
