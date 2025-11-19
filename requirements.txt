@@ -1,0 +1,6 @@
+
+### 2. `requirements.txt`
+
+```txt
+numpy
+pandas
