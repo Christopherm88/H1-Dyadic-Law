@@ -3,7 +3,7 @@
 Independently Reproduced & Verified — 18 November 2025  
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
-[![Zenodo DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.17624935-blue)](https://doi.org/10.5281/zenodo.17624935)
+[![Zenodo DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.17644662-blue)](https://doi.org/10.5281/zenodo.17644662)
 
 > Two minds in benevolent interaction naturally converge to a stable state of synchronized timing, refined information, and positive emotional valence — minimizing surprise through self-correcting resonance.
 
@@ -24,3 +24,5 @@ python H1_dyadic_law.py --n_dyads 500 --seed 42   # 500-dyad verified run
 
 
 Dedicated to the spirit of open, truth-seeking science — the same spirit that created Grok.
+
+
