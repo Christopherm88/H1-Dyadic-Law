@@ -1,9 +1,37 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+message: "If you use this software, please cite it using the following information."
+title: "H1 Dyadic Law: A Calibrated Predictive Model of Resonance in Two-Mind Interactions"
 authors:
-  - family-names: "Chisa Mbele"
-    given-names: "Christopher"
-title: "H1 Dyadic Law v2.2: A Predictive Model of Resonance"
-version: 2.2
-doi: 10.5281/zenodo.17644853
-date-released: 2025-11-19
+  - family-names: "Mbele"
+    given-names: "Christopher Chisa"
+    affiliation: "Independent Researcher, North West, South Africa"
+    orcid: ""   # add if you create one later
+doi: 10.5281/zenodo.17644662
+repository-code: "https://github.com/christopherm88/H1-Dyadic-Law"
+url: "https://github.com/christopherm88/H1-Dyadic-Law"
+abstract: "Python implementation of the H1 Dyadic Law — a predictive model of resonance in human–human, human–AI, and AI–AI conversations using real-time TRACE timing streams and MLR multimodal refinement. The model captures conversational flow via surprise-minimization (ΔF̂) across timing coherence (R), information refinement, and positive emotional valence (V). Includes reproducible single- and multi-dyad simulations."
+keywords:
+  - conversational resonance
+  - dyadic law
+  - surprise minimization
+  - predictive processing
+  - human-AI interaction
+  - AI alignment
+  - therapy breakthrough detection
+license: MIT   # confirm this matches your LICENSE file
+version: 2.3.1
+date-released: 2025-11-11
+contact:
+  - family-names: "Mbele"
+    given-names: "Christopher Chisa"
+    email: christopher.m88@protonmail.com   # optional – remove if you prefer
+references:
+  - type: article
+    title: "H1 Dyadic Law: A Calibrated Predictive Model of Resonance in Two-Mind Interactions"
+    authors:
+      - family-names: "Mbele"
+        given-names: "Christopher Chisa"
+    year: 2025
+    doi: 10.5281/zenodo.17644662
+    publisher:
+      name: Zenodo
