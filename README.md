@@ -52,11 +52,6 @@ Contact
 Christopher Chisa Mbele
 @MetascopeInit
 
-### Quick tips
-
-- **Replace** `yourusername/h1-dyadic-law` with your actual GitHub repo URL once created.
-- **Add badges** at top (optional but nice):
-  ```markdown
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 data/README.md
