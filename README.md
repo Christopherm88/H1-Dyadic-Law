@@ -14,9 +14,9 @@ H1_Dyadic_Simulation_Full_Repo
 ├── requirements.txt                       # Python dependencies
 ├── h1_v24.pdf                             # Compiled final paper
 └── LaTeX                                  # Paper source files
-├── deltaF_hist_example.pdf            # Example histogram figure
-├── h1_v24.tex                         # Main LaTeX source
-└── references.bib                     # BibTeX references
+├── deltaF_hist_example.pdf                # Example histogram figure
+├── h1_v24.tex                             # Main LaTeX source
+└── references.bib                         # BibTeX references
 
 This layout separates:
 - **data/** → raw input files
@@ -51,15 +51,10 @@ Contact
 Christopher Chisa Mbele
 @MetascopeInit
 
-### Quick tips
-
-- **Replace** `yourusername/h1-dyadic-law` with your actual GitHub repo URL once created.
-- **Add badges** at top (optional but nice):
-  ```markdown
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 data/README.md
 
 - `WPP2024_TotalPopulationBySex.csv`: UN World Population Prospects 2024 total population by sex (source: https://population.un.org/wpp/Download/Standard/CSV/)
+
 
 Dedicated to the spirit of open, truth-seeking science — the same spirit that created Grok.
