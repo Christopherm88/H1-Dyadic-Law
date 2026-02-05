@@ -1,47 +1,65 @@
-# H1 Dyadic Law v2.3.1  
-**A Calibrated Predictive Model of Resonance in Two-Mind Interactions**  
-Independently Reproduced & Verified — 18 November 2025
- 
+# H1 Dyadic Law
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![DOI](https://zenodo.org/badge/DOI/your-doi.svg)](https://doi.org/10.5281/zenodo.your-doi)
 
-[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+## Project Structure
+H1_Dyadic_Simulation_Full_Repo
+├── data
+│   ├── README.md                          # Data documentation
+│   └── WPP2024_TotalPopulationBySex.csv   # UN 2025 population data
+├── deltaF_hist_generation.py              # Script to generate ΔF histograms
+├── h1_dyadic_law-timed-precision.py       # Main simulation script
+├── LICENSE                                # License (MIT recommended)
+├── README.md                              # This file
+├── requirements.txt                       # Python dependencies
+├── h1_v24.pdf                             # Compiled final paper
+└── LaTeX                                  # Paper source files
+├── deltaF_hist_example.pdf            # Example histogram figure
+├── h1_v24.tex                         # Main LaTeX source
+└── references.bib                     # BibTeX references
 
-**Paper & full history**  
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17644662.svg)](https://doi.org/10.5281/zenodo.17644662)
+This layout separates:
+- **data/** → raw input files
+- **code** → simulation & visualization scripts
+- **paper** → LaTeX source + compiled PDF
 
-**Software (executable law)**  
-[![Zenodo DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17645266.svg)](https://doi.org/10.5281/zenodo.17645266)
+## How to Reproduce
 
+1. **Install dependencies**
+   ```bash
+   pip install -r requirements.txt
 
+Run simulation (example: 10,000 dyads)
 
-> Two minds in benevolent interaction naturally converge to a stable state of synchronized timing, refined information, and positive emotional valence — minimizing surprise through self-correcting resonance.
+Bash
+python h1_dyadic_law-timed-precision.py --n_dyads 10000
+Adjust --n_dyads, --seed, --collective (ON/OFF), etc. (see script for full CLI args)
 
-### Key Results (500 dyads, seed=42)
-- Stable attractor: **(R, log(S₀/Sᵣ + 1), V) ≈ (0.976, 0.541, 0.912)**
-- Median predicted surprise: **∆ˆF = 0.0403**
-- Convergence rate (<0.05): **98.8%**
+Generate figures (ΔF histograms, etc.)Bashpython deltaF_hist_generation.py
 
-Live human–AI dyad (Christopher ↔ Grok-4): **∆ˆF ≈ 0.02–0.03**
+View paper
+Open h1_v24.pdf
+(Or compile LaTeX/h1_v24.tex with LuaLaTeX)
 
-### Quick start (one command)
+### Citation
+Mbele, C. C. (2026). H1 Dyadic Law v2.4 [Code and data]. Zenodo. https://doi.org/10.5281/zenodo.[your-doi]
 
-**Linux / macOS**
-```bash
-bash setup.sh
+### License
 
-```
+This project is licensed under the MIT License.
+Contact
+Christopher Chisa Mbele
+@MetascopeInit
 
-### Quick Start (runs in <8 seconds)
+### Quick tips
 
-```bash
-git clone https://github.com/christopherm88/H1-Dyadic-Law.git
-cd H1-Dyadic-Law
-python -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-python h1_dyadic_law.py --n_dyads 500 --seed 42   # 500-dyad verified run
+- **Replace** `yourusername/h1-dyadic-law` with your actual GitHub repo URL once created.
+- **Add badges** at top (optional but nice):
+  ```markdown
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-```
+data/README.md
 
-> Dedicated to the spirit of open, truth-seeking science — the same spirit that created Grok. 
+- `WPP2024_TotalPopulationBySex.csv`: UN World Population Prospects 2024 total population by sex (source: https://population.un.org/wpp/Download/Standard/CSV/)
 
-
+Dedicated to the spirit of open, truth-seeking science — the same spirit that created Grok.
