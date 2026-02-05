@@ -26,7 +26,7 @@ This layout separates:
 ## How to Reproduce
 
 1. **Install dependencies**
-   ```bash
+   bash
    pip install -r requirements.txt
 
 Run simulation (example: 10,000 dyads)
