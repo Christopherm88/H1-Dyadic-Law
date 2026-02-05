@@ -1,6 +1,6 @@
 # H1 Dyadic Law
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![DOI](https://zenodo.org/badge/DOI/your-doi.svg)](https://doi.org/10.5281/zenodo.your-doi)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18491143.svg)](https://doi.org/10.5281/zenodo.18491143)
 
 ## Project Structure
 H1_Dyadic_Simulation_Full_Repo
@@ -42,7 +42,8 @@ Open h1_v24.pdf
 (Or compile LaTeX/h1_v24.tex with LuaLaTeX)
 
 ### Citation
-Mbele, C. C. (2026). H1 Dyadic Law v2.4 [Code and data]. Zenodo. https://doi.org/10.5281/zenodo.[your-doi]
+Mbele, C. C. (2026). H1 Dyadic Law v2.4. Zenodo: https://doi.org/10.5281/zenodo.18491143
+
 
 ### License
 
@@ -51,10 +52,15 @@ Contact
 Christopher Chisa Mbele
 @MetascopeInit
 
+### Quick tips
+
+- **Replace** `yourusername/h1-dyadic-law` with your actual GitHub repo URL once created.
+- **Add badges** at top (optional but nice):
+  ```markdown
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 data/README.md
 
 - `WPP2024_TotalPopulationBySex.csv`: UN World Population Prospects 2024 total population by sex (source: https://population.un.org/wpp/Download/Standard/CSV/)
-
 
 Dedicated to the spirit of open, truth-seeking science — the same spirit that created Grok.
